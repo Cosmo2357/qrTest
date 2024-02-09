@@ -1,12 +1,12 @@
 
 # Expo QR boilerplate
 
-QR code reader boilerplate with Expo.
+QR code reader boilerplate with Expo.  
 
-💻作成者側環境
-node v20.10.0
-ruby v3.2.2
-xcode v15.2
+💻作成者側環境  
+node v20.10.0  
+ruby v3.2.2  
+xcode v15.2  
 
 
 ### 起動方法
