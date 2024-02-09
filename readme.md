@@ -16,6 +16,9 @@ $ npx expo run:ios --device
 ```
 ⚠️`expo-router`を使っているためApp.tsxではなく`./app/index.tsx`がエントリーポイントです。
 
+###　リロード
+コンソールで'r'か端末をシェイク
+
 ### Icon library
 https://oblador.github.io/react-native-vector-icons/
 
